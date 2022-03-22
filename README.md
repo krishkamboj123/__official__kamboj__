@@ -1,8 +1,7 @@
-# Krish
-### Hlo How Are You
-### Welcome To My World
+# Welcome 
+### How Are You
 ### My Name is Krish Kamboj
-
+### Are you Akhil I am your father Ram Singh
 
 
 
